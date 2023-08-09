@@ -7,3 +7,6 @@
 
 #### rodar server ==>
 * mix phx.server
+
+
+ mix archive.install hex phx_new 1.5.9
